@@ -87,4 +87,4 @@ let ctx = emmgr.retrieveContext(for: userQuery, embedding: embed(userQuery),
 
 ## License
 
-MIT © 2025 Your Name / Your Company  
+MIT © 2025 Tucuxi, Inc. 
